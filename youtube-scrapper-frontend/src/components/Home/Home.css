@@ -1,0 +1,12 @@
+/* HomePage.css */
+.home-page {
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    padding-top: 70px; /* Height of the navbar + some margin */
+}
+
+.blog {
+    padding-top: 60px;
+}

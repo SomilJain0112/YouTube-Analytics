@@ -1,0 +1,48 @@
+/*
+SearchComponent.css
+*/
+.search-container {
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.input {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c6cacf;
+}
+
+.error-message {
+    color: red;
+}
+
+.collapsible-item {
+    margin-bottom: 1rem;
+}
+
+.collapsible-header {
+    padding: 10px;
+    cursor: pointer;
+    text-align: left;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.collapsible-content {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+    background-color: #f9f9f9;
+    border-radius: 0 0 4px 4px;
+}

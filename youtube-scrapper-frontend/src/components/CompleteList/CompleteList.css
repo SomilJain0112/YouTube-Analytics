@@ -1,0 +1,30 @@
+.complete-list-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.collapsible-item {
+    margin-bottom: 1rem;
+}
+
+.collapsible-header {
+    padding: 10px;
+    cursor: pointer;
+    text-align: left;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.collapsible-header:hover {
+    background-color: #c6cacf;
+}
+
+.collapsible-content {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+    background-color: #f9f9f9;
+    border-radius: 0 0 4px 4px;
+}
